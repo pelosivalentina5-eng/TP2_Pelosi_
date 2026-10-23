@@ -1,0 +1,2823 @@
+[
+  {
+    "id": "MOV-00001",
+    "fecha": "2026-09-01",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 37
+  },
+  {
+    "id": "MOV-00002",
+    "fecha": "2026-09-01",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 40
+  },
+  {
+    "id": "MOV-00003",
+    "fecha": "2026-09-01",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 33
+  },
+  {
+    "id": "MOV-00004",
+    "fecha": "2026-09-01",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 3
+  },
+  {
+    "id": "MOV-00005",
+    "fecha": "2026-09-01",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00006",
+    "fecha": "2026-09-02",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 21
+  },
+  {
+    "id": "MOV-00007",
+    "fecha": "2026-09-02",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 29
+  },
+  {
+    "id": "MOV-00008",
+    "fecha": "2026-09-02",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 26
+  },
+  {
+    "id": "MOV-00009",
+    "fecha": "2026-09-02",
+    "codigo": "85X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 19
+  },
+  {
+    "id": "MOV-00010",
+    "fecha": "2026-09-02",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00011",
+    "fecha": "2026-09-02",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00012",
+    "fecha": "2026-09-03",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 30
+  },
+  {
+    "id": "MOV-00013",
+    "fecha": "2026-09-03",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00014",
+    "fecha": "2026-09-04",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00015",
+    "fecha": "2026-09-04",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00016",
+    "fecha": "2026-09-04",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 35
+  },
+  {
+    "id": "MOV-00017",
+    "fecha": "2026-09-04",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 30
+  },
+  {
+    "id": "MOV-00018",
+    "fecha": "2026-09-04",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 20
+  },
+  {
+    "id": "MOV-00019",
+    "fecha": "2026-09-04",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 17
+  },
+  {
+    "id": "MOV-00020",
+    "fecha": "2026-09-04",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00021",
+    "fecha": "2026-09-04",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00022",
+    "fecha": "2026-09-05",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 17
+  },
+  {
+    "id": "MOV-00023",
+    "fecha": "2026-09-05",
+    "codigo": "60X90-P",
+    "tipo": "DESPACHO",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00024",
+    "fecha": "2026-09-05",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 20
+  },
+  {
+    "id": "MOV-00025",
+    "fecha": "2026-09-05",
+    "codigo": "85X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 33
+  },
+  {
+    "id": "MOV-00026",
+    "fecha": "2026-09-05",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00027",
+    "fecha": "2026-09-05",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00028",
+    "fecha": "2026-09-07",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 17
+  },
+  {
+    "id": "MOV-00029",
+    "fecha": "2026-09-07",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 19
+  },
+  {
+    "id": "MOV-00030",
+    "fecha": "2026-09-07",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 33
+  },
+  {
+    "id": "MOV-00031",
+    "fecha": "2026-09-07",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00032",
+    "fecha": "2026-09-07",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 12
+  },
+  {
+    "id": "MOV-00033",
+    "fecha": "2026-09-07",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00034",
+    "fecha": "2026-09-08",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00035",
+    "fecha": "2026-09-08",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00036",
+    "fecha": "2026-09-08",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00037",
+    "fecha": "2026-09-08",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 17
+  },
+  {
+    "id": "MOV-00038",
+    "fecha": "2026-09-08",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 27
+  },
+  {
+    "id": "MOV-00039",
+    "fecha": "2026-09-09",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 35
+  },
+  {
+    "id": "MOV-00040",
+    "fecha": "2026-09-09",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00041",
+    "fecha": "2026-09-09",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 34
+  },
+  {
+    "id": "MOV-00042",
+    "fecha": "2026-09-09",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00043",
+    "fecha": "2026-09-09",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 26
+  },
+  {
+    "id": "MOV-00044",
+    "fecha": "2026-09-09",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00045",
+    "fecha": "2026-09-09",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00046",
+    "fecha": "2026-09-09",
+    "codigo": "85X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 35
+  },
+  {
+    "id": "MOV-00047",
+    "fecha": "2026-09-09",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 25
+  },
+  {
+    "id": "MOV-00048",
+    "fecha": "2026-09-09",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 21
+  },
+  {
+    "id": "MOV-00049",
+    "fecha": "2026-09-10",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00050",
+    "fecha": "2026-09-10",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00051",
+    "fecha": "2026-09-10",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00052",
+    "fecha": "2026-09-10",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 20
+  },
+  {
+    "id": "MOV-00053",
+    "fecha": "2026-09-10",
+    "codigo": "85X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 6
+  },
+  {
+    "id": "MOV-00054",
+    "fecha": "2026-09-10",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 20
+  },
+  {
+    "id": "MOV-00055",
+    "fecha": "2026-09-10",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00056",
+    "fecha": "2026-09-11",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00057",
+    "fecha": "2026-09-11",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00058",
+    "fecha": "2026-09-11",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 22
+  },
+  {
+    "id": "MOV-00059",
+    "fecha": "2026-09-11",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00060",
+    "fecha": "2026-09-11",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00061",
+    "fecha": "2026-09-11",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00062",
+    "fecha": "2026-09-12",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00063",
+    "fecha": "2026-09-12",
+    "codigo": "45X60-S",
+    "tipo": "DESPACHO",
+    "bultos": 21
+  },
+  {
+    "id": "MOV-00064",
+    "fecha": "2026-09-12",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 25
+  },
+  {
+    "id": "MOV-00065",
+    "fecha": "2026-09-12",
+    "codigo": "60X90-P",
+    "tipo": "DESPACHO",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00066",
+    "fecha": "2026-09-12",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00067",
+    "fecha": "2026-09-12",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00068",
+    "fecha": "2026-09-12",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 31
+  },
+  {
+    "id": "MOV-00069",
+    "fecha": "2026-09-12",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 1
+  },
+  {
+    "id": "MOV-00070",
+    "fecha": "2026-09-12",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 20
+  },
+  {
+    "id": "MOV-00071",
+    "fecha": "2026-09-12",
+    "codigo": "85X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00072",
+    "fecha": "2026-09-12",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00073",
+    "fecha": "2026-09-12",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00074",
+    "fecha": "2026-09-12",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00075",
+    "fecha": "2026-09-14",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 12
+  },
+  {
+    "id": "MOV-00076",
+    "fecha": "2026-09-14",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00077",
+    "fecha": "2026-09-14",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00078",
+    "fecha": "2026-09-14",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 31
+  },
+  {
+    "id": "MOV-00079",
+    "fecha": "2026-09-14",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 40
+  },
+  {
+    "id": "MOV-00080",
+    "fecha": "2026-09-14",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00081",
+    "fecha": "2026-09-14",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00082",
+    "fecha": "2026-09-14",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00083",
+    "fecha": "2026-09-15",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00084",
+    "fecha": "2026-09-15",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 12
+  },
+  {
+    "id": "MOV-00085",
+    "fecha": "2026-09-15",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00086",
+    "fecha": "2026-09-15",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00087",
+    "fecha": "2026-09-15",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 6
+  },
+  {
+    "id": "MOV-00088",
+    "fecha": "2026-09-15",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 31
+  },
+  {
+    "id": "MOV-00089",
+    "fecha": "2026-09-15",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00090",
+    "fecha": "2026-09-15",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 21
+  },
+  {
+    "id": "MOV-00091",
+    "fecha": "2026-09-16",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00092",
+    "fecha": "2026-09-16",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 1
+  },
+  {
+    "id": "MOV-00093",
+    "fecha": "2026-09-16",
+    "codigo": "80X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00094",
+    "fecha": "2026-09-16",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00095",
+    "fecha": "2026-09-17",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 27
+  },
+  {
+    "id": "MOV-00096",
+    "fecha": "2026-09-17",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 20
+  },
+  {
+    "id": "MOV-00097",
+    "fecha": "2026-09-17",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00098",
+    "fecha": "2026-09-17",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 1
+  },
+  {
+    "id": "MOV-00099",
+    "fecha": "2026-09-17",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00100",
+    "fecha": "2026-09-17",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00101",
+    "fecha": "2026-09-17",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00102",
+    "fecha": "2026-09-18",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 17
+  },
+  {
+    "id": "MOV-00103",
+    "fecha": "2026-09-18",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 33
+  },
+  {
+    "id": "MOV-00104",
+    "fecha": "2026-09-18",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00105",
+    "fecha": "2026-09-18",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00106",
+    "fecha": "2026-09-18",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00107",
+    "fecha": "2026-09-18",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 19
+  },
+  {
+    "id": "MOV-00108",
+    "fecha": "2026-09-18",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 29
+  },
+  {
+    "id": "MOV-00109",
+    "fecha": "2026-09-18",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 48
+  },
+  {
+    "id": "MOV-00110",
+    "fecha": "2026-09-19",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00111",
+    "fecha": "2026-09-19",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 25
+  },
+  {
+    "id": "MOV-00112",
+    "fecha": "2026-09-19",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00113",
+    "fecha": "2026-09-19",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00114",
+    "fecha": "2026-09-19",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 20
+  },
+  {
+    "id": "MOV-00115",
+    "fecha": "2026-09-19",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00116",
+    "fecha": "2026-09-19",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00117",
+    "fecha": "2026-09-19",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00118",
+    "fecha": "2026-09-21",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 36
+  },
+  {
+    "id": "MOV-00119",
+    "fecha": "2026-09-21",
+    "codigo": "45X60-P",
+    "tipo": "DESPACHO",
+    "bultos": 67
+  },
+  {
+    "id": "MOV-00120",
+    "fecha": "2026-09-21",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00121",
+    "fecha": "2026-09-21",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 27
+  },
+  {
+    "id": "MOV-00122",
+    "fecha": "2026-09-21",
+    "codigo": "60X90-P",
+    "tipo": "DESPACHO",
+    "bultos": 100
+  },
+  {
+    "id": "MOV-00123",
+    "fecha": "2026-09-21",
+    "codigo": "80X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 85
+  },
+  {
+    "id": "MOV-00124",
+    "fecha": "2026-09-21",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00125",
+    "fecha": "2026-09-21",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 25
+  },
+  {
+    "id": "MOV-00126",
+    "fecha": "2026-09-21",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 52
+  },
+  {
+    "id": "MOV-00127",
+    "fecha": "2026-09-21",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00128",
+    "fecha": "2026-09-22",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 29
+  },
+  {
+    "id": "MOV-00129",
+    "fecha": "2026-09-22",
+    "codigo": "45X60-P",
+    "tipo": "DESPACHO",
+    "bultos": 57
+  },
+  {
+    "id": "MOV-00130",
+    "fecha": "2026-09-22",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 22
+  },
+  {
+    "id": "MOV-00131",
+    "fecha": "2026-09-22",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00132",
+    "fecha": "2026-09-22",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00133",
+    "fecha": "2026-09-22",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00134",
+    "fecha": "2026-09-22",
+    "codigo": "85X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 19
+  },
+  {
+    "id": "MOV-00135",
+    "fecha": "2026-09-22",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 40
+  },
+  {
+    "id": "MOV-00136",
+    "fecha": "2026-09-23",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 23
+  },
+  {
+    "id": "MOV-00137",
+    "fecha": "2026-09-23",
+    "codigo": "80X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 26
+  },
+  {
+    "id": "MOV-00138",
+    "fecha": "2026-09-23",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 36
+  },
+  {
+    "id": "MOV-00139",
+    "fecha": "2026-09-23",
+    "codigo": "85X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 38
+  },
+  {
+    "id": "MOV-00140",
+    "fecha": "2026-09-24",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 19
+  },
+  {
+    "id": "MOV-00141",
+    "fecha": "2026-09-24",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00142",
+    "fecha": "2026-09-24",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 40
+  },
+  {
+    "id": "MOV-00143",
+    "fecha": "2026-09-24",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00144",
+    "fecha": "2026-09-24",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 19
+  },
+  {
+    "id": "MOV-00145",
+    "fecha": "2026-09-24",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00146",
+    "fecha": "2026-09-24",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 31
+  },
+  {
+    "id": "MOV-00147",
+    "fecha": "2026-09-25",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 22
+  },
+  {
+    "id": "MOV-00148",
+    "fecha": "2026-09-25",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 12
+  },
+  {
+    "id": "MOV-00149",
+    "fecha": "2026-09-25",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00150",
+    "fecha": "2026-09-25",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 36
+  },
+  {
+    "id": "MOV-00151",
+    "fecha": "2026-09-25",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 32
+  },
+  {
+    "id": "MOV-00152",
+    "fecha": "2026-09-25",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 35
+  },
+  {
+    "id": "MOV-00153",
+    "fecha": "2026-09-25",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 19
+  },
+  {
+    "id": "MOV-00154",
+    "fecha": "2026-09-25",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00155",
+    "fecha": "2026-09-25",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 6
+  },
+  {
+    "id": "MOV-00156",
+    "fecha": "2026-09-26",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00157",
+    "fecha": "2026-09-28",
+    "codigo": "45X60-S",
+    "tipo": "DESPACHO",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00158",
+    "fecha": "2026-09-28",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 37
+  },
+  {
+    "id": "MOV-00159",
+    "fecha": "2026-09-28",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00160",
+    "fecha": "2026-09-28",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 36
+  },
+  {
+    "id": "MOV-00161",
+    "fecha": "2026-09-28",
+    "codigo": "80X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 87
+  },
+  {
+    "id": "MOV-00162",
+    "fecha": "2026-09-28",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 40
+  },
+  {
+    "id": "MOV-00163",
+    "fecha": "2026-09-28",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00164",
+    "fecha": "2026-09-28",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 43
+  },
+  {
+    "id": "MOV-00165",
+    "fecha": "2026-09-29",
+    "codigo": "45X60-S",
+    "tipo": "DESPACHO",
+    "bultos": 20
+  },
+  {
+    "id": "MOV-00166",
+    "fecha": "2026-09-29",
+    "codigo": "60X90-P",
+    "tipo": "DESPACHO",
+    "bultos": 35
+  },
+  {
+    "id": "MOV-00167",
+    "fecha": "2026-09-29",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00168",
+    "fecha": "2026-09-29",
+    "codigo": "80X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 4
+  },
+  {
+    "id": "MOV-00169",
+    "fecha": "2026-09-29",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 36
+  },
+  {
+    "id": "MOV-00170",
+    "fecha": "2026-09-29",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00171",
+    "fecha": "2026-09-29",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 21
+  },
+  {
+    "id": "MOV-00172",
+    "fecha": "2026-09-30",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 37
+  },
+  {
+    "id": "MOV-00173",
+    "fecha": "2026-09-30",
+    "codigo": "45X60-P",
+    "tipo": "DESPACHO",
+    "bultos": 1
+  },
+  {
+    "id": "MOV-00174",
+    "fecha": "2026-09-30",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00175",
+    "fecha": "2026-09-30",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00176",
+    "fecha": "2026-09-30",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00177",
+    "fecha": "2026-09-30",
+    "codigo": "80X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 43
+  },
+  {
+    "id": "MOV-00178",
+    "fecha": "2026-09-30",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00179",
+    "fecha": "2026-09-30",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00180",
+    "fecha": "2026-09-30",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00181",
+    "fecha": "2026-09-30",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 28
+  },
+  {
+    "id": "MOV-00182",
+    "fecha": "2026-10-01",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 40
+  },
+  {
+    "id": "MOV-00183",
+    "fecha": "2026-10-01",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00184",
+    "fecha": "2026-10-01",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00185",
+    "fecha": "2026-10-01",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00186",
+    "fecha": "2026-10-01",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00187",
+    "fecha": "2026-10-01",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00188",
+    "fecha": "2026-10-01",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 24
+  },
+  {
+    "id": "MOV-00189",
+    "fecha": "2026-10-01",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 35
+  },
+  {
+    "id": "MOV-00190",
+    "fecha": "2026-10-02",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00191",
+    "fecha": "2026-10-02",
+    "codigo": "45X60-P",
+    "tipo": "DESPACHO",
+    "bultos": 19
+  },
+  {
+    "id": "MOV-00192",
+    "fecha": "2026-10-02",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00193",
+    "fecha": "2026-10-02",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00194",
+    "fecha": "2026-10-02",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00195",
+    "fecha": "2026-10-02",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00196",
+    "fecha": "2026-10-02",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 19
+  },
+  {
+    "id": "MOV-00197",
+    "fecha": "2026-10-02",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 34
+  },
+  {
+    "id": "MOV-00198",
+    "fecha": "2026-10-02",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00199",
+    "fecha": "2026-10-03",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00200",
+    "fecha": "2026-10-03",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00201",
+    "fecha": "2026-10-03",
+    "codigo": "45X60-S",
+    "tipo": "DESPACHO",
+    "bultos": 3
+  },
+  {
+    "id": "MOV-00202",
+    "fecha": "2026-10-03",
+    "codigo": "60X90-P",
+    "tipo": "DESPACHO",
+    "bultos": 78
+  },
+  {
+    "id": "MOV-00203",
+    "fecha": "2026-10-03",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 20
+  },
+  {
+    "id": "MOV-00204",
+    "fecha": "2026-10-03",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 30
+  },
+  {
+    "id": "MOV-00205",
+    "fecha": "2026-10-03",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 36
+  },
+  {
+    "id": "MOV-00206",
+    "fecha": "2026-10-03",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 48
+  },
+  {
+    "id": "MOV-00207",
+    "fecha": "2026-10-03",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00208",
+    "fecha": "2026-10-05",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00209",
+    "fecha": "2026-10-05",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 34
+  },
+  {
+    "id": "MOV-00210",
+    "fecha": "2026-10-05",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00211",
+    "fecha": "2026-10-05",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 28
+  },
+  {
+    "id": "MOV-00212",
+    "fecha": "2026-10-05",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00213",
+    "fecha": "2026-10-05",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 28
+  },
+  {
+    "id": "MOV-00214",
+    "fecha": "2026-10-05",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 12
+  },
+  {
+    "id": "MOV-00215",
+    "fecha": "2026-10-06",
+    "codigo": "45X60-P",
+    "tipo": "DESPACHO",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00216",
+    "fecha": "2026-10-06",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00217",
+    "fecha": "2026-10-06",
+    "codigo": "60X90-P",
+    "tipo": "DESPACHO",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00218",
+    "fecha": "2026-10-06",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 23
+  },
+  {
+    "id": "MOV-00219",
+    "fecha": "2026-10-06",
+    "codigo": "85X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 89
+  },
+  {
+    "id": "MOV-00220",
+    "fecha": "2026-10-06",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 6
+  },
+  {
+    "id": "MOV-00221",
+    "fecha": "2026-10-07",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00222",
+    "fecha": "2026-10-07",
+    "codigo": "45X60-P",
+    "tipo": "DESPACHO",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00223",
+    "fecha": "2026-10-07",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00224",
+    "fecha": "2026-10-07",
+    "codigo": "45X60-S",
+    "tipo": "DESPACHO",
+    "bultos": 42
+  },
+  {
+    "id": "MOV-00225",
+    "fecha": "2026-10-07",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 21
+  },
+  {
+    "id": "MOV-00226",
+    "fecha": "2026-10-07",
+    "codigo": "60X90-P",
+    "tipo": "DESPACHO",
+    "bultos": 45
+  },
+  {
+    "id": "MOV-00227",
+    "fecha": "2026-10-07",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00228",
+    "fecha": "2026-10-07",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 6
+  },
+  {
+    "id": "MOV-00229",
+    "fecha": "2026-10-07",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 30
+  },
+  {
+    "id": "MOV-00230",
+    "fecha": "2026-10-07",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00231",
+    "fecha": "2026-10-07",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 6
+  },
+  {
+    "id": "MOV-00232",
+    "fecha": "2026-10-08",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00233",
+    "fecha": "2026-10-08",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00234",
+    "fecha": "2026-10-08",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 38
+  },
+  {
+    "id": "MOV-00235",
+    "fecha": "2026-10-08",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 20
+  },
+  {
+    "id": "MOV-00236",
+    "fecha": "2026-10-08",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 29
+  },
+  {
+    "id": "MOV-00237",
+    "fecha": "2026-10-08",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 128
+  },
+  {
+    "id": "MOV-00238",
+    "fecha": "2026-10-09",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 27
+  },
+  {
+    "id": "MOV-00239",
+    "fecha": "2026-10-09",
+    "codigo": "45X60-P",
+    "tipo": "DESPACHO",
+    "bultos": 6
+  },
+  {
+    "id": "MOV-00240",
+    "fecha": "2026-10-09",
+    "codigo": "45X60-S",
+    "tipo": "DESPACHO",
+    "bultos": 25
+  },
+  {
+    "id": "MOV-00241",
+    "fecha": "2026-10-09",
+    "codigo": "80X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 2
+  },
+  {
+    "id": "MOV-00242",
+    "fecha": "2026-10-09",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 61
+  },
+  {
+    "id": "MOV-00243",
+    "fecha": "2026-10-09",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 65
+  },
+  {
+    "id": "MOV-00244",
+    "fecha": "2026-10-10",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00245",
+    "fecha": "2026-10-10",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00246",
+    "fecha": "2026-10-10",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 23
+  },
+  {
+    "id": "MOV-00247",
+    "fecha": "2026-10-10",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00248",
+    "fecha": "2026-10-10",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 19
+  },
+  {
+    "id": "MOV-00249",
+    "fecha": "2026-10-10",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00250",
+    "fecha": "2026-10-10",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00251",
+    "fecha": "2026-10-10",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 40
+  },
+  {
+    "id": "MOV-00252",
+    "fecha": "2026-10-10",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 23
+  },
+  {
+    "id": "MOV-00253",
+    "fecha": "2026-10-10",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00254",
+    "fecha": "2026-10-12",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00255",
+    "fecha": "2026-10-12",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 17
+  },
+  {
+    "id": "MOV-00256",
+    "fecha": "2026-10-12",
+    "codigo": "45X60-S",
+    "tipo": "DESPACHO",
+    "bultos": 45
+  },
+  {
+    "id": "MOV-00257",
+    "fecha": "2026-10-12",
+    "codigo": "60X90-P",
+    "tipo": "DESPACHO",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00258",
+    "fecha": "2026-10-12",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00259",
+    "fecha": "2026-10-12",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 33
+  },
+  {
+    "id": "MOV-00260",
+    "fecha": "2026-10-12",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00261",
+    "fecha": "2026-10-13",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 17
+  },
+  {
+    "id": "MOV-00262",
+    "fecha": "2026-10-13",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 23
+  },
+  {
+    "id": "MOV-00263",
+    "fecha": "2026-10-13",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 37
+  },
+  {
+    "id": "MOV-00264",
+    "fecha": "2026-10-14",
+    "codigo": "45X60-P",
+    "tipo": "DESPACHO",
+    "bultos": 135
+  },
+  {
+    "id": "MOV-00265",
+    "fecha": "2026-10-14",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00266",
+    "fecha": "2026-10-14",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00267",
+    "fecha": "2026-10-14",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00268",
+    "fecha": "2026-10-14",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 30
+  },
+  {
+    "id": "MOV-00269",
+    "fecha": "2026-10-14",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 6
+  },
+  {
+    "id": "MOV-00270",
+    "fecha": "2026-10-14",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00271",
+    "fecha": "2026-10-14",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 27
+  },
+  {
+    "id": "MOV-00272",
+    "fecha": "2026-10-15",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 25
+  },
+  {
+    "id": "MOV-00273",
+    "fecha": "2026-10-15",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00274",
+    "fecha": "2026-10-15",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00275",
+    "fecha": "2026-10-15",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 40
+  },
+  {
+    "id": "MOV-00276",
+    "fecha": "2026-10-15",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00277",
+    "fecha": "2026-10-15",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 12
+  },
+  {
+    "id": "MOV-00278",
+    "fecha": "2026-10-15",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 33
+  },
+  {
+    "id": "MOV-00279",
+    "fecha": "2026-10-15",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00280",
+    "fecha": "2026-10-15",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 3
+  },
+  {
+    "id": "MOV-00281",
+    "fecha": "2026-10-16",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 20
+  },
+  {
+    "id": "MOV-00282",
+    "fecha": "2026-10-16",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00283",
+    "fecha": "2026-10-16",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00284",
+    "fecha": "2026-10-16",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00285",
+    "fecha": "2026-10-16",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00286",
+    "fecha": "2026-10-16",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00287",
+    "fecha": "2026-10-16",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00288",
+    "fecha": "2026-10-17",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00289",
+    "fecha": "2026-10-17",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 40
+  },
+  {
+    "id": "MOV-00290",
+    "fecha": "2026-10-17",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00291",
+    "fecha": "2026-10-17",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 33
+  },
+  {
+    "id": "MOV-00292",
+    "fecha": "2026-10-17",
+    "codigo": "85X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 105
+  },
+  {
+    "id": "MOV-00293",
+    "fecha": "2026-10-17",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 20
+  },
+  {
+    "id": "MOV-00294",
+    "fecha": "2026-10-17",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 26
+  },
+  {
+    "id": "MOV-00295",
+    "fecha": "2026-10-19",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 12
+  },
+  {
+    "id": "MOV-00296",
+    "fecha": "2026-10-19",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00297",
+    "fecha": "2026-10-19",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00298",
+    "fecha": "2026-10-19",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 27
+  },
+  {
+    "id": "MOV-00299",
+    "fecha": "2026-10-19",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00300",
+    "fecha": "2026-10-19",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 31
+  },
+  {
+    "id": "MOV-00301",
+    "fecha": "2026-10-20",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 39
+  },
+  {
+    "id": "MOV-00302",
+    "fecha": "2026-10-20",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00303",
+    "fecha": "2026-10-20",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 21
+  },
+  {
+    "id": "MOV-00304",
+    "fecha": "2026-10-20",
+    "codigo": "60X90-P",
+    "tipo": "DESPACHO",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00305",
+    "fecha": "2026-10-20",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 12
+  },
+  {
+    "id": "MOV-00306",
+    "fecha": "2026-10-20",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 23
+  },
+  {
+    "id": "MOV-00307",
+    "fecha": "2026-10-20",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 39
+  },
+  {
+    "id": "MOV-00308",
+    "fecha": "2026-10-20",
+    "codigo": "85X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 17
+  },
+  {
+    "id": "MOV-00309",
+    "fecha": "2026-10-20",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00310",
+    "fecha": "2026-10-20",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00311",
+    "fecha": "2026-10-20",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 17
+  },
+  {
+    "id": "MOV-00312",
+    "fecha": "2026-10-20",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00313",
+    "fecha": "2026-10-21",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00314",
+    "fecha": "2026-10-21",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 33
+  },
+  {
+    "id": "MOV-00315",
+    "fecha": "2026-10-21",
+    "codigo": "60X90-P",
+    "tipo": "DESPACHO",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00316",
+    "fecha": "2026-10-21",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00317",
+    "fecha": "2026-10-21",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00318",
+    "fecha": "2026-10-21",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 30
+  },
+  {
+    "id": "MOV-00319",
+    "fecha": "2026-10-21",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00320",
+    "fecha": "2026-10-21",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00321",
+    "fecha": "2026-10-21",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00322",
+    "fecha": "2026-10-21",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 22
+  },
+  {
+    "id": "MOV-00323",
+    "fecha": "2026-10-21",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00324",
+    "fecha": "2026-10-21",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 6
+  },
+  {
+    "id": "MOV-00325",
+    "fecha": "2026-10-22",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00326",
+    "fecha": "2026-10-22",
+    "codigo": "45X60-S",
+    "tipo": "DESPACHO",
+    "bultos": 50
+  },
+  {
+    "id": "MOV-00327",
+    "fecha": "2026-10-22",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 30
+  },
+  {
+    "id": "MOV-00328",
+    "fecha": "2026-10-22",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00329",
+    "fecha": "2026-10-22",
+    "codigo": "80X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 57
+  },
+  {
+    "id": "MOV-00330",
+    "fecha": "2026-10-22",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00331",
+    "fecha": "2026-10-22",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 35
+  },
+  {
+    "id": "MOV-00332",
+    "fecha": "2026-10-22",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 12
+  },
+  {
+    "id": "MOV-00333",
+    "fecha": "2026-10-22",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00334",
+    "fecha": "2026-10-22",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 25
+  },
+  {
+    "id": "MOV-00335",
+    "fecha": "2026-10-23",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 35
+  },
+  {
+    "id": "MOV-00336",
+    "fecha": "2026-10-23",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-00337",
+    "fecha": "2026-10-23",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00338",
+    "fecha": "2026-10-23",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 6
+  },
+  {
+    "id": "MOV-00339",
+    "fecha": "2026-10-23",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 19
+  },
+  {
+    "id": "MOV-00340",
+    "fecha": "2026-10-23",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 6
+  },
+  {
+    "id": "MOV-00341",
+    "fecha": "2026-10-23",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 34
+  },
+  {
+    "id": "MOV-00342",
+    "fecha": "2026-10-23",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 24
+  },
+  {
+    "id": "MOV-00343",
+    "fecha": "2026-10-23",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 87
+  },
+  {
+    "id": "MOV-00344",
+    "fecha": "2026-10-23",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00345",
+    "fecha": "2026-10-24",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00346",
+    "fecha": "2026-10-24",
+    "codigo": "60X90-P",
+    "tipo": "DESPACHO",
+    "bultos": 56
+  },
+  {
+    "id": "MOV-00347",
+    "fecha": "2026-10-24",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00348",
+    "fecha": "2026-10-24",
+    "codigo": "80X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 81
+  },
+  {
+    "id": "MOV-00349",
+    "fecha": "2026-10-24",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00350",
+    "fecha": "2026-10-24",
+    "codigo": "80X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 32
+  },
+  {
+    "id": "MOV-00351",
+    "fecha": "2026-10-24",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 54
+  },
+  {
+    "id": "MOV-00352",
+    "fecha": "2026-10-26",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00353",
+    "fecha": "2026-10-26",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 21
+  },
+  {
+    "id": "MOV-00354",
+    "fecha": "2026-10-26",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 39
+  },
+  {
+    "id": "MOV-00355",
+    "fecha": "2026-10-26",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00356",
+    "fecha": "2026-10-26",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00357",
+    "fecha": "2026-10-27",
+    "codigo": "45X60-S",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00358",
+    "fecha": "2026-10-27",
+    "codigo": "45X60-S",
+    "tipo": "DESPACHO",
+    "bultos": 29
+  },
+  {
+    "id": "MOV-00359",
+    "fecha": "2026-10-27",
+    "codigo": "60X90-P",
+    "tipo": "DESPACHO",
+    "bultos": 28
+  },
+  {
+    "id": "MOV-00360",
+    "fecha": "2026-10-27",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00361",
+    "fecha": "2026-10-27",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 17
+  },
+  {
+    "id": "MOV-00362",
+    "fecha": "2026-10-27",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 16
+  },
+  {
+    "id": "MOV-00363",
+    "fecha": "2026-10-27",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00364",
+    "fecha": "2026-10-27",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 32
+  },
+  {
+    "id": "MOV-00365",
+    "fecha": "2026-10-27",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 17
+  },
+  {
+    "id": "MOV-00366",
+    "fecha": "2026-10-28",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00367",
+    "fecha": "2026-10-28",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 26
+  },
+  {
+    "id": "MOV-00368",
+    "fecha": "2026-10-28",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 34
+  },
+  {
+    "id": "MOV-00369",
+    "fecha": "2026-10-28",
+    "codigo": "85X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 93
+  },
+  {
+    "id": "MOV-00370",
+    "fecha": "2026-10-28",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 13
+  },
+  {
+    "id": "MOV-00371",
+    "fecha": "2026-10-29",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 34
+  },
+  {
+    "id": "MOV-00372",
+    "fecha": "2026-10-29",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 22
+  },
+  {
+    "id": "MOV-00373",
+    "fecha": "2026-10-29",
+    "codigo": "85X110-P",
+    "tipo": "DESPACHO",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-00374",
+    "fecha": "2026-10-29",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 11
+  },
+  {
+    "id": "MOV-00375",
+    "fecha": "2026-10-29",
+    "codigo": "90X120-S",
+    "tipo": "DESPACHO",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00376",
+    "fecha": "2026-10-30",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 23
+  },
+  {
+    "id": "MOV-00377",
+    "fecha": "2026-10-30",
+    "codigo": "45X60-S",
+    "tipo": "DESPACHO",
+    "bultos": 62
+  },
+  {
+    "id": "MOV-00378",
+    "fecha": "2026-10-30",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 38
+  },
+  {
+    "id": "MOV-00379",
+    "fecha": "2026-10-30",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00380",
+    "fecha": "2026-10-30",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 22
+  },
+  {
+    "id": "MOV-00381",
+    "fecha": "2026-10-30",
+    "codigo": "80X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00382",
+    "fecha": "2026-10-30",
+    "codigo": "85X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 40
+  },
+  {
+    "id": "MOV-00383",
+    "fecha": "2026-10-30",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": 2
+  },
+  {
+    "id": "MOV-00384",
+    "fecha": "2026-10-30",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 15
+  },
+  {
+    "id": "MOV-00385",
+    "fecha": "2026-10-31",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 36
+  },
+  {
+    "id": "MOV-00386",
+    "fecha": "2026-10-31",
+    "codigo": "45X60-P",
+    "tipo": "DESPACHO",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-00387",
+    "fecha": "2026-10-31",
+    "codigo": "45X60-S",
+    "tipo": "DESPACHO",
+    "bultos": 4
+  },
+  {
+    "id": "MOV-00388",
+    "fecha": "2026-10-31",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 14
+  },
+  {
+    "id": "MOV-00389",
+    "fecha": "2026-10-31",
+    "codigo": "60X90-S",
+    "tipo": "DESPACHO",
+    "bultos": 4
+  },
+  {
+    "id": "MOV-00390",
+    "fecha": "2026-10-31",
+    "codigo": "80X110-P",
+    "tipo": "PRODUCCION",
+    "bultos": 7
+  },
+  {
+    "id": "MOV-00391",
+    "fecha": "2026-10-31",
+    "codigo": "85X110-S",
+    "tipo": "PRODUCCION",
+    "bultos": 18
+  },
+  {
+    "id": "MOV-00392",
+    "fecha": "2026-10-31",
+    "codigo": "90X120-P",
+    "tipo": "PRODUCCION",
+    "bultos": 9
+  },
+  {
+    "id": "MOV-00393",
+    "fecha": "2026-10-31",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 12
+  },
+  {
+    "id": "MOV-90001",
+    "fecha": "2026-09-31",
+    "codigo": "45X60-P",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-90002",
+    "fecha": "15/10/2026",
+    "codigo": "60X90-S",
+    "tipo": "PRODUCCION",
+    "bultos": 10
+  },
+  {
+    "id": "MOV-90003",
+    "fecha": "2026-10-05",
+    "codigo": "45-60-P",
+    "tipo": "DESPACHO",
+    "bultos": 5
+  },
+  {
+    "id": "MOV-90004",
+    "fecha": "2026-10-06",
+    "codigo": "50X70-P",
+    "tipo": "PRODUCCION",
+    "bultos": 8
+  },
+  {
+    "id": "MOV-90005",
+    "fecha": "2026-10-07",
+    "codigo": "80X110-P",
+    "tipo": "VENTA",
+    "bultos": 3
+  },
+  {
+    "id": "MOV-90006",
+    "fecha": "2026-10-08",
+    "codigo": "85X110-S",
+    "tipo": "DESPACHO",
+    "bultos": -4
+  },
+  {
+    "id": "MOV-90007",
+    "fecha": "2026-10-09",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": "diez"
+  },
+  {
+    "id": "MOV-90008",
+    "fecha": "2026-10-30",
+    "codigo": "90X120-P",
+    "tipo": "DESPACHO",
+    "bultos": 900
+  },
+  {
+    "id": "MOV-90009",
+    "fecha": "2026-10-30",
+    "codigo": "60X90-P",
+    "tipo": "PRODUCCION",
+    "bultos": 5000
+  },
+  {
+    "id": "MOV-00021",
+    "fecha": "2026-09-04",
+    "codigo": "90X120-S",
+    "tipo": "PRODUCCION",
+    "bultos": 9
+  }
+]
