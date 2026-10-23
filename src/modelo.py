@@ -69,3 +69,44 @@ class Producto:
     def __repr__(self):
         return f"Producto({self.codigo}, stock={self.stock})"
     
+    
+    
+
+class Movimiento:
+    """Un movimiento de depósito ya validado: una producción o un despacho."""
+
+    def __init__(self, id_movimiento, fecha, codigo, tipo, bultos):
+        self.id = id_movimiento
+        self.fecha = fecha
+        self.codigo = codigo
+        self.tipo = tipo
+        self.bultos = bultos
+
+    def __repr__(self):
+        return f"Movimiento({self.id}, {self.fecha}, {self.codigo}, {self.tipo}, {self.bultos})"
+
+
+class ConsultaStock:
+    """Lo que pide quien usa el programa. Valida los parámetros al crearse."""
+
+    def __init__(self, fecha_corte=None, desde=None, hasta=None, codigo=None):
+        self.fecha_corte = validar_fecha(fecha_corte) if fecha_corte else None
+        self.desde = validar_fecha(desde) if desde else None
+        self.hasta = validar_fecha(hasta) if hasta else None
+        if self.desde and self.hasta and self.desde > self.hasta:
+            raise ValueError(f"'desde' ({self.desde}) es posterior a 'hasta' ({self.hasta})")
+        if codigo:
+            Producto(codigo)  # lanza ValueError si el código no es válido
+        self.codigo = codigo
+
+    def incluye_en_stock(self, movimiento):
+        """El stock se calcula con todos los movimientos hasta la fecha de corte."""
+        return self.fecha_corte is None or movimiento.fecha <= self.fecha_corte
+
+    def incluye_en_periodo(self, movimiento):
+        """El resumen de producción y despachos usa solo el período pedido."""
+        if self.desde and movimiento.fecha < self.desde:
+            return False
+        if self.hasta and movimiento.fecha > self.hasta:
+            return False
+        return True
