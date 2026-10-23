@@ -208,4 +208,6 @@ Los movimientos se aplican en orden de fecha (y de id dentro del mismo día), no
 - Si un despacho se rechaza por falta de stock, el resto se sigue calculando sin él. En la realidad habría que revisar si fue un error de carga o si faltó registrar una producción.
 - Los duplicados se detectan por id. Si el mismo movimiento se cargó dos veces con ids distintos, el programa no puede darse cuenta.
 - El tope de 1000 bultos por movimiento es un criterio propio; si la fábrica hiciera movimientos más grandes, habría que cambiar `BULTOS_MAXIMOS` en `src/pipeline.py`.
-“Para el desarrollo usé un asistente de IA como guía.”
+
+
+Para el desarrollo usé un asistente de IA como guía.
