@@ -110,9 +110,6 @@ def limpiar_datos(registros):
 
     return validos, rechazos
 
-
-
-
 # ---------- 3. Calcular ----------
 
 def crear_productos():
@@ -163,3 +160,71 @@ def verificar_resultado(productos):
         if completos * p.bultos_por_pallet + sueltos != p.stock:
             raise AssertionError(f"{p.codigo}: la conversión a pallets no conserva los bultos")
                     
+
+                    
+
+
+def reporte_stock(productos, codigo=None):
+    """Tabla de stock por producto, en bultos y en pallets."""
+    filas = []
+    for producto in productos.values():
+        if codigo and producto.codigo != codigo:
+            continue
+        completos, sueltos = producto.pallets()
+        filas.append({
+            "codigo": producto.codigo,
+            "medida": producto.medida,
+            "linea": producto.nombre_linea(),
+            "stock_bultos": producto.stock,
+            "pallets_completos": completos,
+            "bultos_sueltos": sueltos,
+            "stock_minimo": producto.stock_minimo,
+            "reponer": "SI" if producto.necesita_reposicion() else "NO",
+        })
+    return filas
+
+
+def reporte_reposicion(productos):
+    """Productos por debajo del mínimo, del que más falta al que menos."""
+    filas = [
+        {
+            "codigo": p.codigo,
+            "stock_bultos": p.stock,
+            "stock_minimo": p.stock_minimo,
+            "faltan_bultos": p.faltante(),
+        }
+        for p in productos.values()
+        if p.necesita_reposicion()
+    ]
+    return sorted(filas, key=lambda f: (-f["faltan_bultos"], f["codigo"]))
+
+
+def resumen_periodo(movimientos, consulta):
+    """Bultos producidos y despachados por línea dentro del período pedido."""
+    resumen = {
+        nombre: {"linea": nombre, "producido": 0, "despachado": 0, "movimientos": 0}
+        for nombre in NOMBRES_LINEA.values()
+    }
+    for movimiento in movimientos:
+        if not consulta.incluye_en_periodo(movimiento):
+            continue
+        if consulta.fecha_corte and movimiento.fecha > consulta.fecha_corte:
+            continue
+        linea = NOMBRES_LINEA[movimiento.codigo[-1]]
+        clave = "producido" if movimiento.tipo == "PRODUCCION" else "despachado"
+        resumen[linea][clave] += movimiento.bultos
+        resumen[linea]["movimientos"] += 1
+    return list(resumen.values())
+
+
+# ---------- 4. Guardar ----------
+
+def guardar_csv(filas, ruta, campos):
+    """Guarda una lista de diccionarios como CSV. Crea la carpeta si no existe."""
+    ruta = Path(ruta)
+    ruta.parent.mkdir(parents=True, exist_ok=True)
+    with open(ruta, "w", encoding="utf-8", newline="") as archivo:
+        escritor = csv.DictWriter(archivo, fieldnames=campos, extrasaction="ignore")
+        escritor.writeheader()
+        escritor.writerows(filas)
+        
