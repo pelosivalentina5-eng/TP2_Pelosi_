@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Salidas generadas (se recrean al ejecutar la aplicación)
+outputs/
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
