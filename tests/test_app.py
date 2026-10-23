@@ -201,6 +201,48 @@ class TestEntradasInvalidas(unittest.TestCase):
                 FuenteJSON().cargar(objeto)
 
 
+
+
+
+class TestPropiedades(unittest.TestCase):
+    """3. Propiedades que el resultado tiene que cumplir, con los datos completos."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.json = normalizar_campos(FuenteJSON().cargar(RAIZ / "data" / "movimientos.json"))
+        cls.csv = normalizar_campos(FuenteCSV().cargar(RAIZ / "data" / "movimientos.csv"))
+
+    def test_csv_y_json_dan_el_mismo_stock(self):
+        consulta = ConsultaStock()
+        prod_json, _ = calcular_stock(limpiar_datos(self.json)[0], consulta)
+        prod_csv, _ = calcular_stock(limpiar_datos(self.csv)[0], consulta)
+        self.assertEqual(reporte_stock(prod_json), reporte_stock(prod_csv))
+
+    def test_ningun_registro_se_pierde(self):
+        validos, rechazos = limpiar_datos(self.json)
+        self.assertEqual(len(validos) + len(rechazos), len(self.json))
+
+    def test_conservacion_de_bultos(self):
+        # stock final = producción aceptada - despachos aceptados, y nunca negativo
+        productos, _ = calcular_stock(limpiar_datos(self.json)[0], ConsultaStock())
+        verificar_resultado(productos)
+        total_stock = sum(p.stock for p in productos.values())
+        total = sum(p.producido - p.despachado for p in productos.values())
+        self.assertEqual(total_stock, total)
+
+    def test_pallets_conservan_los_bultos(self):
+        productos, _ = calcular_stock(limpiar_datos(self.json)[0], ConsultaStock())
+        for p in productos.values():
+            completos, sueltos = p.pallets()
+            self.assertEqual(completos * p.bultos_por_pallet + sueltos, p.stock)
+            self.assertLess(sueltos, p.bultos_por_pallet)
+
+    def test_mismas_entradas_mismo_resultado(self):
+        uno, _ = calcular_stock(limpiar_datos(self.json)[0], ConsultaStock())
+        dos, _ = calcular_stock(limpiar_datos(self.json)[0], ConsultaStock())
+        self.assertEqual(reporte_stock(uno), reporte_stock(dos))
+
+
 if __name__ == "__main__":
     unittest.main()
     
