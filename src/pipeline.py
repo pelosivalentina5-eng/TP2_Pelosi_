@@ -56,3 +56,57 @@ def validar_esquema(registros):
                 f"Campos esperados: {', '.join(CAMPOS_REQUERIDOS)}"
             )
             
+
+
+# ---------- 2. Limpiar ----------
+
+def convertir_movimiento(registro):
+    """Convierte un diccionario en Movimiento, o lanza ValueError con el motivo."""
+    id_movimiento = validar_id(registro["id"])
+    fecha = validar_fecha(registro["fecha"])
+    producto = Producto(registro["codigo"])  # valida formato y medida
+
+    tipo = registro["tipo"]
+    if tipo not in TIPOS_MOVIMIENTO:
+        raise ValueError(f"tipo de movimiento desconocido: {tipo!r}")
+
+    try:
+        bultos = int(registro["bultos"])
+    except (TypeError, ValueError):
+        raise ValueError(f"la cantidad de bultos no es un número entero: {registro['bultos']!r}") from None
+    if bultos <= 0:
+        raise ValueError(f"la cantidad de bultos debe ser mayor que cero: {bultos}")
+    if bultos > BULTOS_MAXIMOS:
+        raise ValueError(f"cantidad de bultos fuera de rango (más de {BULTOS_MAXIMOS}): {bultos}")
+
+    return Movimiento(id_movimiento, fecha, producto.codigo, tipo, bultos)
+
+
+def limpiar_datos(registros):
+    """Separa los movimientos válidos de los rechazados.
+
+    Devuelve (validos, rechazos). Cada rechazo guarda el número de fila
+    original, el motivo y los datos, para poder revisarlo y corregirlo.
+    Un id repetido se considera un movimiento cargado dos veces: se
+    conserva el primero.
+    """
+    validos = []
+    rechazos = []
+    ids_vistos = set()
+
+    for fila, registro in enumerate(registros, start=1):
+        try:
+            movimiento = convertir_movimiento(registro)
+        except ValueError as error:
+            rechazos.append({"fila": fila, "motivo": str(error), **registro})
+            continue
+
+        if movimiento.id in ids_vistos:
+            rechazos.append({"fila": fila, "motivo": "id duplicado", **registro})
+            continue
+
+        ids_vistos.add(movimiento.id)
+        validos.append(movimiento)
+
+    return validos, rechazos
+            
